@@ -2,8 +2,8 @@ package ru.fefu.marathonsskillsapp.main_page
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import ru.fefu.marathonsskillsapp.R
-import ru.fefu.marathonsskillsapp.databinding.ActivityMainBinding
+import marathonsskillsapp.R
+import marathonsskillsapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

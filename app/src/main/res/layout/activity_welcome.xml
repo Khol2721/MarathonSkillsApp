@@ -34,7 +34,7 @@
             app:srcCompat="@drawable/marathonskills" />
 
         <Button
-            android:id="@+id/registrationButton"
+            android:id="@+id/buttonRegistration"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
@@ -46,7 +46,7 @@
             android:textSize="16sp" />
 
         <Button
-            android:id="@+id/loginButton"
+            android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#004B09F3"

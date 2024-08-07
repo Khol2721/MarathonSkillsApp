@@ -3,8 +3,8 @@ package ru.fefu.marathonsskillsapp.main_page
 import android.os.Bundle
 import android.view.View
 import androidx.recyclerview.widget.LinearLayoutManager
-import ru.fefu.marathonsskillsapp.R
-import ru.fefu.marathonsskillsapp.databinding.ActivityMarathonFragmentBinding
+import marathonsskillsapp.R
+import marathonsskillsapp.databinding.ActivityMarathonFragmentBinding
 import ru.fefu.marathonsskillsapp.main_page.adapters.ItemAdapter
 import ru.fefu.marathonsskillsapp.main_page.lists.ListItem
 import ru.fefu.marathonsskillsapp.main_page.lists.MarathonListRepository

@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import ru.fefu.marathonsskillsapp.R
+import marathonsskillsapp.R
 
 
 

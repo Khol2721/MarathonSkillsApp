@@ -4,96 +4,117 @@ class MarathonListRepository {
     private val listItem = listOf(
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
+            distance = "Footman remarked, 'till.",
             time = "17.04.2022",
-            cost = "100$",
-            startTime = "14:15",
-            endTime = "17:01",
+            cost = "1200р.",
+            startTime = "12:00",
+            endTime = "11:15",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
+            info = "Alice, she went to school in the distance, and she crossed her hands on her hand, and Alice could.",
         ),
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
-            time = "17.04.2022",
-            cost = "100$",
+            distance = "Alice whispered, 'that it's.",
+            time = "13.05.2022",
+            cost = "500р.",
             startTime = "14:15",
             endTime = "17:01",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
+            info = "Magpie began wrapping itself up and say \\\"Who am I to do with you. Mind now!' The poor little.",
         ),
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
-            time = "17.04.2022",
-            cost = "100$",
-            startTime = "14:15",
-            endTime = "17:01",
+            distance = "Alice called out 'The race.",
+            time = "11.06.2022",
+            cost = "700р.",
+            startTime = "11:45",
+            endTime = "14:00",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
+            info = "VERY tired of this. I vote the young Crab, a little of it?' said the King; 'and don't be nervous.",
         ),
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
-            time = "17.04.2022",
-            cost = "100$",
-            startTime = "14:15",
-            endTime = "17:01",
+            distance = "She had not noticed before.",
+            time = "11.08.2022",
+            cost = "550р.",
+            startTime = "12:00",
+            endTime = "13:30",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
+            info = "Queen said--' 'Get to your places!' shouted the Gryphon, 'that they WOULD put their heads.",
         ),
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
-            time = "17.04.2022",
-            cost = "100$",
-            startTime = "14:15",
-            endTime = "17:01",
+            distance = "And the Gryphon went on.",
+            time = "15.07.2022",
+            cost = "1000р.",
+            startTime = "14:10",
+            endTime = "16:05",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
+            info = "Duck and a large crowd collected round it: there was the only one who had spoken first. 'That's.",
         ),
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
-            time = "17.04.2022",
-            cost = "100$",
-            startTime = "14:15",
-            endTime = "17:01",
+            distance = "M, such as mouse-traps, and.",
+            time = "11.06.2022",
+            cost = "550р.",
+            startTime = "13:15",
+            endTime = "16:01",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
+            info = "Dormouse said--' the Hatter said, turning to Alice. 'Only a thimble,' said Alice in a helpless.",
         ),
 
         ListItem.Item(
-            distance = "Кросс Быстрый Пес",
-            time = "17.04.2022",
-            cost = "100$",
+            distance = "Alice whispered, 'that it's.",
+            time = "13.05.2022",
+            cost = "500р.",
             startTime = "14:15",
             endTime = "17:01",
             activity = "Россия",
             user = "2км 3км 5км",
-            info = "Размер и порода не важны — мы ждём всех, кто готов преодолеть 2 км в своё удовольствие. Маршрут проложен в один круг. Покрытие грунтовое, возможна глубокая грязь и лужи — вашей собаке точно понравится!\n" +
-                    "\n" +
-                    "Формат кросса подразумевает раздельные старты. Участники будут стартовать по несколько пар с интервалами между группами. Победителей и призёров определят по личному времени. Все участники получат значок на финише.",
-        )
+            info = "Magpie began wrapping itself up and say \\\"Who am I to do with you. Mind now!' The poor little.",
+        ),
+
+        ListItem.Item(
+            distance = "She had not noticed before.",
+            time = "11.08.2022",
+            cost = "550р.",
+            startTime = "12:00",
+            endTime = "13:30",
+            activity = "Россия",
+            user = "2км 3км 5км",
+            info = "Queen said--' 'Get to your places!' shouted the Gryphon, 'that they WOULD put their heads.",
+        ),
+
+        ListItem.Item(
+            distance = "She had not noticed before.",
+            time = "11.08.2022",
+            cost = "550р.",
+            startTime = "12:00",
+            endTime = "13:30",
+            activity = "Россия",
+            user = "2км 3км 5км",
+            info = "Queen said--' 'Get to your places!' shouted the Gryphon, 'that they WOULD put their heads.",
+        ),
+
+        ListItem.Item(
+            distance = "Alice called out 'The race.",
+            time = "11.06.2022",
+            cost = "700р.",
+            startTime = "11:45",
+            endTime = "14:00",
+            activity = "Россия",
+            user = "2км 3км 5км",
+            info = "VERY tired of this. I vote the young Crab, a little of it?' said the King; 'and don't be nervous.",
+        ),
+
     )
+
 
     fun getItem() : List<ListItem> = listItem
 }

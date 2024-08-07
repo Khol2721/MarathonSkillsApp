@@ -4,8 +4,8 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import ru.fefu.marathonsskillsapp.R
-import ru.fefu.marathonsskillsapp.databinding.ActivityMarathonDetailsFragmentBinding
+import marathonsskillsapp.R
+import marathonsskillsapp.databinding.ActivityMarathonDetailsFragmentBinding
 import ru.fefu.marathonsskillsapp.main_page.lists.ListItem
 
 
@@ -50,6 +50,5 @@ class MarathonDetailsFragment(details: ListItem.Item) :
         return binding.root
 
     }
-
 
 }

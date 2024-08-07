@@ -53,7 +53,7 @@
                     app:srcCompat="@drawable/marathonskills" />
 
                 <com.google.android.material.textfield.TextInputLayout
-                    android:id="@+id/login_entrance"
+                    android:id="@+id/editTextTextPersonName"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
@@ -78,7 +78,7 @@
                 </com.google.android.material.textfield.TextInputLayout>
 
                 <com.google.android.material.textfield.TextInputLayout
-                    android:id="@+id/password_entrance"
+                    android:id="@+id/editTextTextPassword"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="10dp"
@@ -103,9 +103,9 @@
                         tools:ignore="TextContrastCheck" />
 
                 </com.google.android.material.textfield.TextInputLayout>
-<!--                android:onClick="go_to_main"-->
+
                 <Button
-                    android:id="@+id/buttonEnter"
+                    android:id="@+id/button"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -113,7 +113,7 @@
                     android:backgroundTint="@color/primary"
                     android:fontFamily="@font/inter_semi_bold"
                     android:gravity="center"
-
+                    android:onClick="go_to_main"
                     android:text="@string/enter"
                     android:textAllCaps="false"
                     android:textSize="16sp" />

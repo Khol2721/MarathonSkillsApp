@@ -4,9 +4,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import ru.fefu.marathonsskillsapp.R
-import ru.fefu.marathonsskillsapp.databinding.ItemInListModelBinding
-import ru.fefu.marathonsskillsapp.databinding.ItemDateBinding
+import marathonsskillsapp.R
+import marathonsskillsapp.databinding.ItemInListModelBinding
+import marathonsskillsapp.databinding.ItemDateBinding
 import ru.fefu.marathonsskillsapp.main_page.lists.ListItem
 
 class ItemAdapter(private val list: List<ListItem>): RecyclerView.Adapter<RecyclerView.ViewHolder>() {

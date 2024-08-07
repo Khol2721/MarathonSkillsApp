@@ -154,5 +154,4 @@
     <string name="email">Почта</string>
     <string name="logo">logo</string>
     <string name="Marathons">Марафоны</string>
-    <string name="registration_text">Нажимая на кнопку, вы соглашаетесь с <font color ="#2F9A54">политикой конфиденциальности</font> и обработки персональных данных, а также принимаете <font color ="#2F9A54">пользовательское соглашение</font></string>
 </resources>

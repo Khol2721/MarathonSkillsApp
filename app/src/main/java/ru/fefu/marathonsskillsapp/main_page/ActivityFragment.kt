@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.viewpager2.widget.ViewPager2
 import com.google.android.material.tabs.TabLayout
 import com.google.android.material.tabs.TabLayoutMediator
-import ru.fefu.marathonsskillsapp.R
+import marathonsskillsapp.R
 import ru.fefu.marathonsskillsapp.main_page.adapters.ViewPagerAdapter
 
 class ActivityFragment : Fragment() {

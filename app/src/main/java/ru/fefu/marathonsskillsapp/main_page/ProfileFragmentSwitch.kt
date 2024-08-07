@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import ru.fefu.marathonsskillsapp.R
-import ru.fefu.marathonsskillsapp.databinding.ActivityProfileSwitchFragmentBinding
+import marathonsskillsapp.R
+import marathonsskillsapp.databinding.ActivityProfileSwitchFragmentBinding
 
 
 class ProfileFragmentSwitch: Fragment() {

@@ -1,5 +1,6 @@
 package ru.fefu.marathonsskillsapp.main_page
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -7,6 +8,7 @@ import android.view.ViewGroup
 import androidx.annotation.LayoutRes
 import androidx.fragment.app.Fragment
 import androidx.viewbinding.ViewBinding
+import marathonsskillsapp.R
 import java.lang.reflect.ParameterizedType
 
 open class BaseFragment<V : ViewBinding>(@LayoutRes layoutResId: Int) : Fragment(layoutResId) {
@@ -37,7 +39,6 @@ open class BaseFragment<V : ViewBinding>(@LayoutRes layoutResId: Int) : Fragment
         super.onDestroyView()
         _binding = null
     }
-
 
 
 }
